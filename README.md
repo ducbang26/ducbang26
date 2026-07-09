@@ -31,16 +31,14 @@
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- [https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended) -->
 <br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=6&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=6&theme=github_dark)
 <div align=center>
   <a href="#" title="Ducbang26">
-    
+    <img width="315" align="center" src="https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark" />
   </a>
   <a href="#" title="Ducbang26">
-    
+    <img align="right" width="434" src="https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=6&theme=github_dark" />
   </a>
 </div>
 
