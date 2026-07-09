@@ -35,7 +35,7 @@
 <br>
 <div align="center">
   <a href="#" title="Ducbang26">
-    <img width="434" src="https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark" />
+    <img width="434" height="203" src="https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark" />
   </a>
   <a href="#" title="Ducbang26">
     <img width="434" src="https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=4&theme=github_dark" />
