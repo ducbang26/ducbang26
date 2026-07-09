@@ -35,10 +35,10 @@
 <br>
 <div align=center>
   <a href="#" title="Ducbang26">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducbang26&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark)
   </a>
   <a href="#" title="Ducbang26">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ducbang26&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=6&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=6&theme=github_dark)
   </a>
 </div>
 
