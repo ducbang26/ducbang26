@@ -33,12 +33,12 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- [https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended) -->
 <br>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; flex-wrap: wrap;">
+<div align="center">
   <a href="#" title="Ducbang26">
     <img width="434" src="https://github-stats-extended.vercel.app/api?username=ducbang26&show_icons=true&include_all_commits=true&theme=github_dark" />
   </a>
   <a href="#" title="Ducbang26">
-    <img width="434" src="https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=6&theme=github_dark" />
+    <img width="434" src="https://github-stats-extended.vercel.app/api/top-langs?username=ducbang26&layout=compact&langs_count=4&theme=github_dark" />
   </a>
 </div>
 
